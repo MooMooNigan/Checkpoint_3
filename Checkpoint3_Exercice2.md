@@ -220,7 +220,10 @@ sdb                      8:16   0     8G  0 disk
 sr0
 ```
 ### Q.2.3.4
+Erreur de manip et bloquage de la VM 10 minutes avant la fin.
 
+### Q.2.3.5
+Je pense qu'il devait rester 5.5Gio sur la partition md0p5, mais impossible de le vérifier ou d'en être sur.
 
 ## Partie 4
 ### Q.2.4.1
